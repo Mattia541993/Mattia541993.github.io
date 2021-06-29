@@ -7,6 +7,8 @@ layout: home
 {{ page.myvar }}
 {% endif %}
 
+what can I do? bubu
+
 {% render_time %}
 page rendered at:
 {% endrender_time %}
