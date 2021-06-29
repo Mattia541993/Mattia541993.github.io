@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Ma come siamo belli
+{{ page.content | read_time }}
